@@ -38,6 +38,7 @@ const Welcome = ({ navigation }) => {
   return (
     <View style={s.container}>
       <StatusBar style="dark" />
+
       <View style={s.content}>
         <Image
           accessible={true}
