@@ -10,3 +10,7 @@ This Newsletter app is a showcase of my skills developed during the Meta React N
 - `Stack Navigation`
 - `Responsive Design`<br />
 _+ More_
+<br /><br />
+
+---
+![React-Native](https://github.com/dBish6/Little_Lemon_Newsletter/assets/94132443/cb037ee7-8c2d-4eda-82b8-40d4f8e57968)
